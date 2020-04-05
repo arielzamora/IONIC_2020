@@ -1,0 +1,7 @@
+{
+  "name": "Pps_AlarmaRobo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
